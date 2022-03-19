@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "998887500379",
+    "project_id": "brew-app-af981",
+    "storage_bucket": "brew-app-af981.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998887500379:android:53696e7f06a3b53981ad7e",
+        "android_client_info": {
+          "package_name": "com.cheran_548.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998887500379-gad09prd55j3dhokdt1lqul6dvb62oee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQOwjtLJ8ZiZQXwkjZLbdquJVZpHPBDLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998887500379-gad09prd55j3dhokdt1lqul6dvb62oee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
